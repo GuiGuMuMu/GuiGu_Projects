@@ -44,4 +44,10 @@
 2. **Upgrade WiFi Speed on 50% of Fleet**  
 3. **Improve Seat Comfort in Economy Class**  
 4. **Offer Free Snacks During Delays**  
-5. **Train Cabin Crew in Conflict Resolution**  
+5. **Train Cabin Crew in Conflict Resolution**
+
+Optional: 
+"Which service failures should we fix first to maximize satisfaction improvements with limited resources?"
+Correlation between specific service ratings (WiFi, food, etc.) and overall satisfaction
+Frequency of co-occurring low ratings
+
